@@ -1,4 +1,4 @@
 LeetCode-python
 ===============
 
-solve LeetCode problem using python
+solve LeetCode problems using python
